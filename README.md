@@ -98,3 +98,17 @@ Fan Zhou*, Ruiyang Yin, Kunpeng Zhang, Goce Trajcevski, Ting Zhong and Jin Wu. A
 Fan Zhou*, Zijing Wen, Kunpeng Zhang, Goce Trajcevski and Ting Zhong. Variational Session-based Recommendation Using Normalizing Flows. WWW 2019.  (CCF A 类) 
 
 Fan Zhou*, Lei Liu, Kunpeng Zhang, Goce Trajcevski, Ting Zhong and Jin Wu. Predicting Topic Participation by Jointly Learning User Intrinsic and Extrinsic Preference. IEEE ACCESS. (JCR二区)
+
+### Before 2018
+
+Fan Zhou*, Qiang Gao, Goce Trajcevski, Kunpeng Zhang. Trajectory-User Linking via Variational AutoEncoder. IJCAI. 2018 (CCF A 类) 
+
+Fan Zhou*, Lei Liu, Kunpeng Zhang, Goce Trajcevski, Wu Jin, Ting Zhong. DeepLink: A Deep Learning Approach for User Identity Linkage. INFOCOM 2018. (CCF A 类) 
+
+Fan Zhou*, Bangying Wu, Yi Yang, Goce Trajcevski, Kunpeng Zhang and Ting Zhong. vec2Link: Unifying Heterogeneous Data for Social Link Prediction. CIKM 2018. (CCF B 类) 
+
+Qiang Gao, Goce Trajcevski, Fan Zhou*, Kunpeng Zhang, Ting Zhong and Fengli Zhang. Trajectory-based Social Circle Inference. (GIS 顶会) 
+
+Qiang Gao, Fan Zhou*, Kunpeng Zhang, Goce Trajcevski and Fengli Zhang. (2017). Identifying Human Mobility via Trajectory Embeddings. IJCAI. (CCF A 类) 
+
+
