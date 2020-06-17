@@ -2,7 +2,8 @@
 
 # 2020
 
-#Preprint
+# Preprint
+
 A Survey of Information Cascade Analysis: Models, Predictions and Recent Advances 
 Fan Zhou*, Xovee Xu, Goce Trajcevski, Kunpeng Zhang. 
 
