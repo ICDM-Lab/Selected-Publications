@@ -19,6 +19,7 @@ Fan Zhou*, Xovee Xu, Ce Li, Ting Zhong, Kunpeng Zhang, Goce Trajcevski.
 
 [https://arxiv.org/abs/2003.12042](https://arxiv.org/abs/2003.12042).
 
+###### Accepted paper
 Forecasting the Evolution of Hydropower Generation 
 Fan Zhou*, Liang Li, Kunpeng Zhang, Goce Trajcevski, Fuming Yao, Ying Huang, Jiahao Wang, Ting Zhong, Qiao Liu
 Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD). (CCF A)
@@ -70,3 +71,30 @@ ACM Transactions on Spatial Algorithms and Systems
 Adversarially Mobility Learning for Human Trajectory Classification 
 Qiang Gao, Fengli Zhang, Fuming Yao, Lin Mei, and Fan Zhou*.
 IEEE ACCESS. (二区).
+
+### 2019
+Qiang Gao, Goce Trajcevski, Fan Zhou*, Kunpeng Zhang, Ting Zhong and Fengli Zhang. DeepTrip: Adversarially Understanding Human Mobility for Trip Recommendation. SIGSPATIAL 2019. 
+
+Fan Zhou*, Chengtai Cao, Kunpeng Zhang, Goce Trajcevski,  Ting Zhong and Ji Geng. Meta-GNN: On Few-shot Node Classification in Graph Meta-learning CIKM 2019. (CCF B)
+
+Fan Zhou*, Ruiyang Yin, Goce Trajcevski, Kunpeng Zhang, Jin Wu and Ashfaq Khokhar. Improving Human Mobility Identification with Trajectory Augmentation. Geoinformatica. 2019. (CCF B)
+
+Fan Zhou*, Kunpeng Zhang, Shuying Xie and Xucheng Luo. Learning to Correlate Accounts across Online Social Networks: An Embedding-based Approach. IINFORMS Journal of Computing. 2019. (UT-Dallas 24)
+
+Xueqin Chen, Kunpeng Zhang, Fan Zhou*, Goce Trajcevski, Ting Zhong and Fengli Zhang. Information Cascades Modeling via Deep Multi-Task Learning. SIGIR 2019.  (CCF A 类) 
+
+Ting Zhong, Fang Liu, Fan Zhou*, Goce Trajcevski and Kunpeng Zhang. Motion Based Inference of Social Circles via Self-Attention and Contextualized Embedding. IEEE ACCESS 2019.  (JCR 二区) 
+
+Fan Zhou*, Zijing Wen, Goce Trajcevski, Kunpeng Zhang, Ting Zhong and Fang Liu. Disentangled Network Alignment with Matching Explainability. INFOCOM 2019. (CCF A 类) 
+
+Xueqin Chen, Fan Zhou*, Kunpeng Zhang, Goce Trajcevski, Ting Zhong and Fengli Zhang. Information Diffusion Prediction via Recurrent Cascades Convolution. ICDE 2019.  (CCF A 类) 
+
+Fan Zhou*, Xiaoli Yue, Goce Trajcevski, Ting Zhong and Kunpeng Zhang. Context-aware Variational Trajectory Encoding and Human Mobility Inference. WWW 2019. (CCF A 类)
+
+Qiang Gao, Fan Zhou*, Goce Trajcevski, Kunpeng Zhang, Ting Zhong and Fengli Zhang. Predicting Human Mobility via Variational Attention. WWW 2019.  (CCF A 类)
+
+Fan Zhou*, Ruiyang Yin, Kunpeng Zhang, Goce Trajcevski, Ting Zhong and Jin Wu. Adversarial Point-of-Interest Recommendation. WWW 2019.  (CCF A 类) 
+
+Fan Zhou*, Zijing Wen, Kunpeng Zhang, Goce Trajcevski and Ting Zhong. Variational Session-based Recommendation Using Normalizing Flows. WWW 2019.  (CCF A 类) 
+
+Fan Zhou*, Lei Liu, Kunpeng Zhang, Goce Trajcevski, Ting Zhong and Jin Wu. Predicting Topic Participation by Jointly Learning User Intrinsic and Extrinsic Preference. IEEE ACCESS. (JCR二区)
