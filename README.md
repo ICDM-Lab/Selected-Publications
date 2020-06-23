@@ -73,6 +73,10 @@ Adversarially Mobility Learning for Human Trajectory Classification
 Qiang Gao, Fengli Zhang, Fuming Yao, Lin Mei, and Fan Zhou*.
 IEEE ACCESS. (二区).
 
+Multiple-Aspect Attentional Graph Neural Networks for Online Social Network User Localization. 
+Ting Zhong, Tianliang Wang, Jiahao Wang*, Jin Wu and Fan Zhou.
+IEEE ACCESS. (二区)
+
 ### 2019
 Qiang Gao, Goce Trajcevski, Fan Zhou*, Kunpeng Zhang, Ting Zhong and Fengli Zhang. DeepTrip: Adversarially Understanding Human Mobility for Trip Recommendation. SIGSPATIAL 2019. 
 
