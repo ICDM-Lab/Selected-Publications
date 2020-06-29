@@ -1,5 +1,7 @@
-# Attention
-Fan Zhou is the big boss of ICDM.
+# Fan Zhou (Big boss of ICDM Lab)
+- Introduction: http://www.ss.uestc.edu.cn/teachers.do?id=1121
+- DBLP: https://dblp.uni-trier.de/pers/hd/z/Zhou_0002:Fan
+
 Any question please contact us: ICDM.Lab@uestc.edu.cn.
 # Selected-Publications
 
