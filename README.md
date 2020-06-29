@@ -1,26 +1,19 @@
-# Attention: Fan Zhou is the big boss of ICDM, any question please contact us: ICDM.Lab@uestc.edu.cn
+# Attention
+Fan Zhou is the big boss of ICDM.
+Any question please contact us: ICDM.Lab@uestc.edu.cn.
 # Selected-Publications
 
 ### 2020
 
-###### Preprint
+#### Preprint
 
-A Survey of Information Cascade Analysis: Models, Predictions and Recent Advances 
-Fan Zhou*, Xovee Xu, Goce Trajcevski, Kunpeng Zhang. 
+- [A Survey of Information Cascade Analysis: Models, Predictions and Recent Advances](https://arxiv.org/abs/2005.11041): Fan Zhou*, Xovee Xu, Goce Trajcevski, Kunpeng Zhang. 
 
-[https://arxiv.org/abs/2005.11041](https://arxiv.org/abs/2005.11041).
+- [Continual Graph Learning](https://arxiv.org/abs/2003.09908): Fan Zhou*, Chengtai Cao, Ting Zhong, Kunpeng Zhang, Goce Trajcevski, Ji Geng. 
 
-Continual Graph Learning 
-Fan Zhou*, Chengtai Cao, Ting Zhong, Kunpeng Zhang, Goce Trajcevski, Ji Geng. 
+- [A Heterogeneous Dynamic Graph Neural Networks Approach to Quantify Scientific Impact](https://arxiv.org/abs/2003.12042): Fan Zhou*, Xovee Xu, Ce Li, Ting Zhong, Kunpeng Zhang, Goce Trajcevski. 
 
-[https://arxiv.org/abs/2003.09908](https://arxiv.org/abs/2003.09908).
-
-A Heterogeneous Dynamic Graph Neural Networks Approach to Quantify Scientific Impact
-Fan Zhou*, Xovee Xu, Ce Li, Ting Zhong, Kunpeng Zhang, Goce Trajcevski. 
-
-[https://arxiv.org/abs/2003.12042](https://arxiv.org/abs/2003.12042).
-
-###### Accepted paper
+#### Accepted paper
 Forecasting the Evolution of Hydropower Generation 
 Fan Zhou*, Liang Li, Kunpeng Zhang, Goce Trajcevski, Fuming Yao, Ying Huang, Jiahao Wang, Ting Zhong, Qiao Liu
 Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD). (CCF A)
@@ -77,7 +70,7 @@ Multiple-Aspect Attentional Graph Neural Networks for Online Social Network User
 Ting Zhong, Tianliang Wang, Jiahao Wang*, Jin Wu and Fan Zhou.
 IEEE ACCESS. (二区)
 
-### 2019
+## 2019
 Qiang Gao, Goce Trajcevski, Fan Zhou*, Kunpeng Zhang, Ting Zhong and Fengli Zhang. DeepTrip: Adversarially Understanding Human Mobility for Trip Recommendation. SIGSPATIAL 2019. 
 
 Fan Zhou*, Chengtai Cao, Kunpeng Zhang, Goce Trajcevski,  Ting Zhong and Ji Geng. Meta-GNN: On Few-shot Node Classification in Graph Meta-learning CIKM 2019. (CCF B)
@@ -104,7 +97,7 @@ Fan Zhou*, Zijing Wen, Kunpeng Zhang, Goce Trajcevski and Ting Zhong. Variationa
 
 Fan Zhou*, Lei Liu, Kunpeng Zhang, Goce Trajcevski, Ting Zhong and Jin Wu. Predicting Topic Participation by Jointly Learning User Intrinsic and Extrinsic Preference. IEEE ACCESS. (JCR二区)
 
-### Before 2018
+## Before 2018
 
 Fan Zhou*, Qiang Gao, Goce Trajcevski, Kunpeng Zhang. Trajectory-User Linking via Variational AutoEncoder. IJCAI. 2018 (CCF A 类) 
 
